@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/CBY123321/-local_life#readme",
   "dependencies": {
-    "@vant/weapp": "^1.10.2"
+    "@vant/weapp": "^1.10.2",
+    "miniprogram-api-promise": "^1.0.4"
   }
 }

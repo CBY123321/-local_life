@@ -29,6 +29,9 @@
       "selectedIconPath": "/images/tabs/telephone (2).png"
     }]
   },
-  "style": "v2",
-  "sitemapLocation": "sitemap.json"
+
+  "sitemapLocation": "sitemap.json",
+  "usingComponents": {
+    "van-button": "@vant/weapp/button/index"
+  }
 }
